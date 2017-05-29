@@ -1,0 +1,26 @@
+
+#teteCaisse {
+    border: #337ab7 solid 1px;
+        
+}
+#menuCaisse{
+    border: #337ab7 solid 1px;
+    
+}
+#actionCaisse{
+     border: #337ab7 solid 1px;
+}
+#affichageCaisse{
+     //border: #337ab7 solid 1px;
+     margin-left: 5px;
+     margin-right: 5px;
+}
+#affichageCaisse tr{
+    border: solid 1px;
+}
+#emplacementCaisse{
+    margin: 2px 2px 2px 2px;
+    
+}
+
+    
